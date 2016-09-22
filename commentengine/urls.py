@@ -1,5 +1,4 @@
-from django.conf.urls import patterns, url, include
-from rest_framework.routers import DefaultRouter
+from django.conf.urls import patterns, url
 from commentengine import views
 from commentengine.views import schema_view
 
