@@ -1,3 +1,6 @@
+## Status
+[![Build Status](https://api.travis-ci.org/LamhotJM/upload-file-api-django.svg)](https://travis-ci.org/LamhotJM/upload-file-api-django)
+
 ## Comment API
 1. CRUD API
 2. Uploading File
