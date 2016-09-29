@@ -1,6 +1,9 @@
 ## Status
 [![Build Status](https://api.travis-ci.org/LamhotJM/upload-file-api-django.svg)](https://travis-ci.org/LamhotJM/upload-file-api-django)
 
+## Deploy
+https://mysterious-garden-78512.herokuapp.com/api/comments/
+
 ## Comment API
 1. CRUD API
 2. Uploading File
