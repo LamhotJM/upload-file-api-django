@@ -18,6 +18,7 @@ https://mysterious-garden-78512.herokuapp.com/api/comments/
 - $ pip install -r requirements.txt
 - python manage.py makemigrations commentengine (create migration file)
 - python manage.py migrate commentengine 0001_initial
+- /manage.py syncdb
 - python manage.py runserver
 - python manage.py test
 ```
